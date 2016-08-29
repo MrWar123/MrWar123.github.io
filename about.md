@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a third year Computer Science major at UT and am interested in application design and development.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hadigharizi@utexas.edu](mailto:hadigharizi@utexas.edu)
